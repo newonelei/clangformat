@@ -62,6 +62,7 @@ IndentGotoLabels: false
 IndentRequires: false
 IndentWidth: 4
 IndentWrappedFunctionNames: false
+MaxEmptyLinesToKeep: 1
 Language: Cpp
 KeepEmptyLinesAtTheStartOfBlocks: false
 NamespaceIndentation: All
@@ -74,7 +75,7 @@ PenaltyBreakOpenParenthesis: 0
 PenaltyBreakString: 10
 PenaltyExcessCharacter: 100
 PenaltyReturnTypeOnItsOwnLine: 5
-PointerAlignment: Left
+PointerAlignment: Right
 QualifierAlignment: Left
 ReferenceAlignment: Pointer
 ReflowComments: true
